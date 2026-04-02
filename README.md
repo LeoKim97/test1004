@@ -11,6 +11,6 @@
 ### 가이드 
 
 - [개요](https://raw.githubusercontent.com/LeoKim97/test1004/main/overview.md) - 서비스 개요
-- [가격](https://platform.claude.com/docs/en/about-claude/pricing.md) 
+- [가격](https://platform.claude.com/docs/ko/about-claude/pricing.md) 
 
 
