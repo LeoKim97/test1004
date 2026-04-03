@@ -10,7 +10,7 @@
 
 ### 가이드 
 
-- [전부(JOUNBOO) 서비스 개요](https://raw.githubusercontent.com/LeoKim97/test1004/main/overview.md) - 전부(JOUNBOO) 서비스 개요
+- [전부(JOUNBOO) 서비스 개요](https://raw.githubusercontent.com/LeoKim97/test1004/main/overview.md) | 전부(JOUNBOO) 서비스 개요
 - [가격](https://platform.claude.com/docs/ko/about-claude/pricing.md) 
 
 
